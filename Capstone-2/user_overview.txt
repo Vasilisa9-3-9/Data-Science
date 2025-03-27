@@ -1,0 +1,7 @@
+The total number of users: 9
+The total number of task: 2
+The total number of tasks assigned to that user is: 2
+The percentage of the total number of tasks that have been asigned to admin: 100.0
+The percentage of the tasks assigned to admin that have not yet been completed and are overdue:50.0
+The percentage of the tasks that have been asigned to admin that are complete: 0.0
+The percentage of the tasks that have been asigned to admin that are uncomplete: 100.0
